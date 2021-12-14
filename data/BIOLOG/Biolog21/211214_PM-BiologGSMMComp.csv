@@ -25,12 +25,12 @@ B11,D-mannitol,mnl,True,0.48,4
 B12,L-glutamic acid,glu__L,True,0.06,4
 C1,D-glucose-6-phosphate,g6p,False,0.0,3
 C2,D-galactonic acid-gammalactone,,False,0.0,3
-C3,D-L-malic acid,mal__L,True,0.0,2
+C3,D-L-malic acid,mal__L,False,0.0,3
 C4,D-ribose,rib__D,True,0.25,4
 C5,Tween 20,,False,0.0,3
 C6,L-rhamnose,rmn,True,,0
 C7,D-fructose,fru,True,0.48,4
-C8,Acetic acid,ac,True,0.0,2
+C8,Acetic acid,ac,False,0.0,3
 C9,a-D-glucose,glc_A,True,,0
 C10,Maltose,malt,True,0.96,4
 C11,D-melibiose,melib,False,0.0,3
@@ -81,7 +81,7 @@ G7,Acetoacetic acid,acac,False,0.0,3
 G8,N-acetyl-b-D-Mannosamine,acmana,False,0.0,3
 G9,Mono methyl succinate,,True,,0
 G10,Methyl pyruvate,,True,,0
-G11,D-malic acid,mal__D,True,0.0,2
+G11,D-malic acid,mal__D,False,0.0,3
 G12,L-malic acid,mal__L,True,0.0,2
 H1,Glycyl-L-proline,gly_pro__L,True,,0
 H2,P-hydroxy phenyl acetic acid,4hoxpac,False,0.0,3
