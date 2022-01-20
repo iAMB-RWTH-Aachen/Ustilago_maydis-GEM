@@ -1,0 +1,28 @@
+index,Abbreviation,Formula,Misbalance
+0,RXN-14577,CPD0-1162_c + coa_c + h2o_c + h_c + nad_c + o2_c --> CPD-7221_c + accoa_c + h2o2_c + nadh_c,{'charge': -2.0}
+1,RXN0-6359,Sulfurated-Sulfur-Acceptors_c + cyan_c --> Unsulfurated-Sulfur-Acceptors_c + 2.0 h_c + tcynt_c,"{'charge': 1.0, 'H': 1.0, 'S': 1.0}"
+2,RXN3O-227,CPD-700_c + h_c + nadph_c + o2_c --> 57222428-ERGOSTATETRAENOL_c + 2.0 h2o_c + nadp_c,{'charge': 2.0}
+3,RXN-15212,N-acyl-sphingosylphosphorylcholine_c + h2o_c --> N-Acylsphingosine_c + cholp_c + h_c,"{'H': 12.0, 'O': 3.0, 'C': 5.0, 'N': 1.0, 'P': 1.0}"
+4,RXN-11373,3-carboxy-3-dimethylammonio-eropyl-L-his_c + amet_c --> DIPHTINE_c + ahcys_c + h_c,"{'C': -1.0, 'H': -2.0}"
+5,RXN-11374,amet_c + cmaphis_c --> 3-carboxy-3-dimethylammonio-eropyl-L-his_c + ahcys_c + h_c,"{'C': -1.0, 'H': -2.0}"
+6,DIPS,amet_c + caphis_c --> ahcys_c + cmaphis_c + h_c,"{'C': -1.0, 'H': -2.0}"
+7,RXN-14326,3.0 amet_c + caphis_c --> DIPHTINE_c + 3.0 ahcys_c + 3.0 h_c,"{'C': -3.0, 'H': -6.0}"
+8,BUTYRYL-COA-DEHYDROGENASE-RXN,b2coa_c + fad_c --> btcoa_c + fadh2_c + h_c,"{'charge': 1.0, 'H': 5.0}"
+9,RXN-12588,Unsulfurated-Sulfur-Acceptors_c + cys__L_c + h_c <=> Sulfurated-Sulfur-Acceptors_c + ala__L_c,"{'charge': -1.0, 'H': -1.0, 'S': -1.0}"
+10,RXN-15276,N-ACETYL-BETA-D-GLUCOSAMINYL-13-ETCETERA_c + udpgal_c --> h_c + i-Antigens_c + udp_c,"{'C': -6.0, 'H': -10.0, 'O': -5.0}"
+11,RXN-13445,CPD-14425_c + 2.0 h_c --> clpndcoa_c,{'charge': -2.0}
+12,GLNTRAT,atp_c + gln__L_c + glutrna_gln_c + h2o_c --> adp_c + glntrna_c + glu__L_c + h_c + pi_c,"{'C': 5.0, 'H': 7.0, 'N': 1.0, 'O': 3.0, 'R': 1.0}"
+13,RXN-12460,Charged-ASN-tRNAs_c + h2o_c --> asn__L_c + 2.0 h_c + trnaasn_c,"{'charge': 1.0, 'H': 25.0, 'O': 12.0, 'C': 14.0, 'N': 2.0, 'P': 1.0, 'R': 2.0}"
+14,CERAMIDASE-RXN,N-Acylsphingosine_c + h2o_c --> Fatty-Acids_c + sphings_c,"{'H': 36.0, 'O': 1.0, 'C': 18.0, 'N': 1.0}"
+15,GLUTRS_Gln,atp_c + glu__L_c + h_c + trnagln_c --> amp_c + glutrna_gln_c + ppi_c,"{'charge': -1.0, 'C': -5.0, 'H': -8.0, 'N': -1.0, 'O': -3.0, 'R': -1.0}"
+17,RXN-5061,2.0 fdxrd_c + 2.0 h_c + mlthf_c --> 5mthf_c + 2.0 fdxox_c,"{'charge': -2.0, 'H': -4.0}"
+18,RXN-15211,N-Acylsphingosine_c + pc160_c --> 12dgr160_c + N-acyl-sphingosylphosphorylcholine_c,"{'C': -5.0, 'H': -12.0, 'N': -1.0, 'O': -3.0, 'P': -1.0}"
+19,PYRUFLAVREDUCT-RXN,coa_c + 2.0 fdxox_c + pyr_c --> accoa_c + co2_c + 2.0 fdxrd_c + h_c,"{'charge': 2.0, 'H': 4.0}"
+20,2.8.1.6-RXN,Sulfurated-Sulfur-Acceptors_c + 2.0 amet_c + dtbt_c --> Unsulfurated-Sulfur-Acceptors_c + btn_c + 2.0 dad_5_c + h_c + 2.0 met__L_c,"{'charge': -1.0, 'H': 1.0, 'S': 1.0}"
+21,1.18.1.2-RXN,2.0 fdxrd_c + h_c + nadp_c --> 2.0 fdxox_c + nadph_c,"{'charge': -2.0, 'H': -4.0}"
+22,GLUTARYL-COA-DEHYDROG-RXN,fadh2_c + glutcoa_c + h_c <=> GLUTACONYL-COA_c + fad_c,"{'charge': -1.0, 'H': -5.0}"
+23,C8STI,fecost_c --> epist_c,{'charge': -2.0}
+24,3.1.1.23-RXN,CPD-504_c + h2o_c --> Fatty-Acids_c + glyc_c + h_c,"{'H': 7.0, 'O': 2.0, 'C': 3.0}"
+25,FERREDOXIN--NITRITE-REDUCTASE-RXN,6.0 fdxrd_c + 8.0 h_c + no2_c --> 6.0 fdxox_c + 2.0 h2o_c + nh4_c,"{'charge': -6.0, 'H': -12.0}"
+26,R265-RXN,CPD-533_c + fadh2_c + h_c <=> ch15deccoa_c + fad_c,"{'charge': -1.0, 'H': -5.0}"
+27,Hexaprenyl-Diphosphate-Biosynthesis-RXN,frdp_c + ipdp_c --> hexdp_c + 3.0 ppi_c,"{'charge': -6.0, 'C': 10.0, 'H': 18.0, 'O': 14.0, 'P': 4.0}"
