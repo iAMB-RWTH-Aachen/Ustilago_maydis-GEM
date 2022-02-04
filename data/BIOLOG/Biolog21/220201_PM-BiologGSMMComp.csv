@@ -1,0 +1,193 @@
+WellID,Name,BiGG,Growth,GSMM,PM-GSMM
+A1,Negative control,,False,0.0,3
+A2,L-arabinose,arab__L,True,0.38,4
+A3,N-acetyl-D-glucosamine,acgam,True,0.46,4
+A4,D-saccharic acid,,False,0.0,3
+A5,Succinic acid,succ,False,0.0,3
+A6,D-galactose,gal_bD,True,0.46,4
+A7,L-aspartic acid,asp__L,False,0.0,3
+A8,L-proline,pro__L,True,0.23,4
+A9,D-alanine,ala_B,False,0.0,3
+A10,D-trehalose,tre,True,0.93,4
+A11,D-mannose,man,True,0.46,4
+A12,Dulcitol,galt,False,0.0,3
+B1,D-serine,ser__D,False,0.0,3
+B2,D-sorbitol,sbt__D,False,0.0,3
+B3,Glycerol,glyc,True,0.23,4
+B4,L-fucose,fuc__L,True,0.42,4
+B5,D-glucoronic acid,,False,0.0,3
+B6,D-gluconic acid,glcn,True,0.3,4
+B7,D.L-a-glycerol-phosphate,glyc3p,False,0.0,3
+B8,D-xylose,xyl__D,True,0.38,4
+B9,L-lactic acid,lac__L,True,,0
+B10,Formic acid,for,False,0.0,3
+B11,D-mannitol,mnl,True,0.46,4
+B12,L-glutamic acid,glu__L,True,0.07,4
+C1,D-glucose-6-phosphate,g6p,False,0.0,3
+C2,D-galactonic acid-gammalactone,,False,0.0,3
+C3,D-L-malic acid,mal__L,False,0.0,3
+C4,D-ribose,rib__D,True,0.38,4
+C5,Tween 20,,False,0.0,3
+C6,L-rhamnose,rmn,True,0.42,4
+C7,D-fructose,fru,True,0.46,4
+C8,Acetic acid,ac,False,0.0,3
+C9,a-D-glucose,glc_A,True,0.46,4
+C10,Maltose,malt,True,0.93,4
+C11,D-melibiose,melib,False,0.0,3
+C12,Thymidine,thymd,False,0.0,3
+D1,L-asparagine,asn__L,False,0.0,3
+D2,D-aspartic acid,asp__D,False,0.0,3
+D3,D-glucosaminic acid,,False,0.0,3
+D4,1.2.-Propanediol,12ppd__R,False,0.0,3
+D5,Tween 40,,False,0.0,3
+D6,A-Keto-glutaric acid,akg,False,0.0,3
+D7,a-Keto-butyric acid,2obut,False,0.0,3
+D8,a-methyl-D-galactoside,,False,0.0,3
+D9,a-D-lactose,lcts,True,0.93,4
+D10,Lactulose,lctls,True,0.93,4
+D11,Sucrose,sucr,True,0.93,4
+D12,Uridine,uri,False,0.0,3
+E1,L-glutamine,gln__L,False,0.0,3
+E2,M-tartaric acid,tartr__M,False,0.0,3
+E3,D-Glucose-1-phosphate,g1p,False,0.0,3
+E4,D-fructose-6-phosphate,f6p__D,False,0.0,3
+E5,Tween 80,,False,0.0,3
+E6,a-Hydroxy glutaric acid-gammalactone,,False,0.0,3
+E7,a-Hydroxy butyric acid,2hb,False,0.0,3
+E8,b-methyl-D-glucoside,mbdg,True,0.54,4
+E9,Adonitol,rbt,False,0.0,3
+E10,Maltotriose,malttr,True,1.4,4
+E11,2-Deoxy adenosine,dad_2,False,0.0,3
+E12,Adenosine,adn,False,0.0,3
+F1,Glycyl-L-aspartic acid,gly_asp__L,False,0.0,3
+F2,Citric acid,cit,False,0.0,3
+F3,M-inositol,inost,False,0.0,3
+F4,D-threonine,,False,0.0,3
+F5,Fumaric acid,fum,False,0.0,3
+F6,Bromo succinic acid,,False,0.0,3
+F7,Propionic acid,ppa,False,0.0,3
+F8,Mucic acid,galct__D,False,0.0,3
+F9,Glycolic acid,glyclt,False,0.0,3
+F10,Glycoxylic acid,,False,0.0,3
+F11,D-cellobiose,cellb,False,0.0,3
+F12,Inosine,ins,False,0.0,3
+G1,Glycyl-L-glutamic acid,gly_glu__L,False,0.0,3
+G2,Tricarballylic acid,tcb,False,0.0,3
+G3,L-serine,ser__L,True,0.07,4
+G4,L-threonine,thr__L,True,0.14,4
+G5,L-alanine,ala__L,False,0.0,3
+G6,L-alanyl glycine,L_alagly,True,0.07,4
+G7,Acetoacetic acid,acac,False,0.0,3
+G8,N-acetyl-b-D-Mannosamine,acmana,False,0.0,3
+G9,Mono methyl succinate,mesuc,True,0.23,4
+G10,Methyl pyruvate,mepyr,True,0.3,4
+G11,D-malic acid,mal__D,False,0.0,3
+G12,L-malic acid,mal__L,True,,0
+H1,Glycyl-L-proline,gly_pro__L,False,0.0,3
+H2,P-hydroxy phenyl acetic acid,4hoxpac,False,0.0,3
+H3,M-hydroxy phenyl acetic acid,3hoxpac,False,0.0,3
+H4,Tyramine,tym,False,0.0,3
+H5,D-psicose,,False,0.0,3
+H6,L-lyxose,lxy__L,False,0.0,3
+H7,Glucuronamide,,False,0.0,3
+H8,Pyruvic acid,pyr,False,0.0,3
+H9,L-galactonic acid-y-lactone,,False,0.0,3
+H10,D-galacturonic acid,galur,False,0.0,3
+H11,Phenylethylamine,peamn,False,0.0,3
+H12,2-Aminoethanol,etha,False,0.0,3
+A1,Negative Control,,False,0.0,3
+A2,Chondroitin sulfate c,,False,0.0,3
+A3,a-Cyclodextrin,dextrin,False,0.0,3
+A4,b-Cyclodextrin,,False,0.0,3
+A5,y-Cyclodextrin,,False,0.0,3
+A6,Dextrin,dextrin,False,0.0,3
+A7,Gelatin,,False,0.0,3
+A8,Glycogen,glycogen,False,0.0,3
+A9,Inulin,,False,0.0,3
+A10,Laminarin,,False,0.0,3
+A11,Mannan,mannan,False,0.0,3
+A12,Pectin,pectin,False,0.0,3
+B1,N-acetyl-D-galactosamin,acgam,False,0.0,3
+B2,N-acetyl-neuraminic acid,acnam,False,0.0,3
+B3,b-D-allose,all__D,False,0.0,3
+B4,Amygdalin,,False,0.0,3
+B5,D-arabinose,arab__D,True,,0
+B6,D-arabitol,abt__D,True,0.38,4
+B7,L-arabitol,abt__L,True,,0
+B8,Arbutin,arby,False,0.0,3
+B9,2-deoxy-D-ribose,drib,False,0.0,3
+B10,L-erythritol,eryth,True,0.3,4
+B11,D-fucose,fuc__D,True,,0
+B12,3-0-b-D-galactopydanosyl-D-arabinose,,False,0.0,3
+C1,Gentiobiose,,False,0.0,3
+C2,L-glucose,,False,0.0,3
+C3,Lactitol,,False,0.0,3
+C4,D-melezitose,,True,,0
+C5,Maltitol,,True,,0
+C6,a-Mehyl-D-glucoside,madg,True,,0
+C7,b-Methyl-D-galactoside,mbdg,False,0.0,3
+C8,3-Methylglucose,,False,0.0,3
+C9,b-Metyl-D-glucoronic acid,,False,0.0,3
+C10,a-Methyl-D-mannoside,,False,0.0,3
+C11,b-Metyl-D-xyloside,,False,0.0,3
+C12,Palatinose,pala,True,,0
+D1,D-raffinose,raffin,True,1.4,4
+D2,Salicin,salcn,False,0.0,3
+D3,Sedoheptulosan,,False,0.0,3
+D4,L-sorbose,srb__L,False,0.0,3
+D5,Stachyose,stchs,False,0.0,3
+D6,D-tagatose,tag__D,False,0.0,3
+D7,Turanose,,True,,0
+D8,Xylitol,xylt,True,0.38,4
+D9,N-acetyl-D-glucosaminitol,,False,0.0,3
+D10,GAMMA-Amino butyric acid,4abut,True,0.14,4
+D11,d-Keto valeric acid,5aptn,False,0.0,3
+D12,Butyric acid,but,False,0.0,3
+E1,Capric acid,dca,False,0.0,3
+E2,Caproic acid,hxa,False,0.0,3
+E3,Citraconic acid,citac,False,0.0,3
+E4,Citramalic acid,citm,False,0.0,3
+E5,D-glucosamine,gam,False,0.0,3
+E6,2-Hydroxy benzoic acid,salc,True,0.28,4
+E7,4-Hydroxy benzoic acid,4hbz,False,0.0,3
+E8,b-Hydroxy butyric acid,2hb,True,,0
+E9,g-Hydroxy butyric acid,ghb,False,0.0,3
+E10,a-Keto valeric acid,,False,0.0,3
+E11,Itaconic acid,itacon,False,0.0,3
+E12,5-Keto-D-gluconic acid,5dglcn,False,0.0,3
+F1,D-lactic acid methyl ester,,True,,0
+F2,Malonic acid,malon,False,0.0,3
+F3,Melibionic acid,,False,0.0,3
+F4,Oxalic acid,oxa,False,0.0,3
+F5,Oxalomalic acid,,False,0.0,3
+F6,Quinic acid,quin,True,,0
+F7,D-ribono-1-4-lactone,glcr,False,0.0,3
+F8,Sebacic acid,,True,,0
+F9,Sorbic acid,,False,0.0,3
+F10,Succinamic acid,,True,,0
+F11,D-tartaric acid,tartr__D,False,0.0,3
+F12,L-tartaric acid,tartr__L,False,0.0,3
+G1,Acetamide,ad,False,0.0,3
+G2,L-alaninamide,,True,,0
+G3,N-acetyl-L-glutamic acid,acglu,False,0.0,3
+G4,L-arginine,arg__L,True,,0
+G5,Glycine,gly,False,0.0,3
+G6,L-histidine,his__L,False,0.0,3
+G7,L-homoserine,hom__L,False,0.0,3
+G8,Hydroxy-L-proline,4hpro_LT,False,0.0,3
+G9,L-isoleucine,ile__L,True,,0
+G10,L-leucine,leu__L,True,0.28,4
+G11,L-lysine,lys__L,False,0.0,3
+G12,L-methionine,met__L,False,0.0,3
+H1,L-ornithine,orn__L,True,,0
+H2,L-phenylalanine,phe__L,False,0.0,3
+H3,L-pyroglutamic acid,,False,0.0,3
+H4,L-valine,val__L,False,0.0,3
+H5,D-L-carnitine,crn,False,0.0,3
+H6,Sec-butylamine,,False,0.0,3
+H7,D-L-octopamine,,False,0.0,3
+H8,Putrescine,ptrc,False,0.0,3
+H9,Dihydroxy Acetone,dha,False,0.0,3
+H10,2-3-Butanediol,btd_RR,False,0.0,3
+H11,2-3-Butanone,,False,0.0,3
+H12,3-Hydroxy 2-butanone,actn__R,False,0.0,3
