@@ -1,4 +1,0 @@
-Nucleotide FastA files download
-Date: 2021/08/03
-URL: ftp://ftp.ensemblgenomes.org/pub/fungi/release-51/fasta/ustilago_maydis/
-Contact: ulf.liebal@rwth-aachen.de
