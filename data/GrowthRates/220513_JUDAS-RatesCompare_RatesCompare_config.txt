@@ -1,0 +1,15 @@
+# This file contains the parameters used for multi experiment comparison of growth and substrate rate analysis.
+Workflow: RateComp
+Today: 220513
+Target_Dir: /home/ulf/Documents/Ustilago_maydis-GEM/data/GrowthRates
+File: RatesCompare.xlsx
+Sheet: RateCompare
+ImageType: svg
+SubType: glc
+SubUnit: g/L
+IgnoreDat: ['2196_glc']
+GrowthMean: Growth-Rate[/h]
+GrowthStdv: Growth-Std
+SubstrMean: Substrate-uptake[mmol/gCDW/h]
+SubstrStdv: Uptake-Std
+SubstrInit: Initial Conc[g/L]
