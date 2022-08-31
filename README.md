@@ -4,7 +4,10 @@
 
 ## **Citation**
 
-Liebal et al. (2022), A Genome-Scale Metabolic Model for the Smut-Fungus *Ustilago maydis*. bioRxiv, doi:
+Liebal et al. (2022), Ustilago maydis Metabolic Characterization and Growth Quantification with a Genome-Scale Metabolic Model. *J. Fungi* **2022**, *8*(5), 524; https://doi.org/10.3390/jof8050524
+
+### Simulations for Review *Renewable carbon sources to biochemicals and -fuels: contributions of the smut fungi Ustilaginaceae* by Becker et al., 2022
+Simulations on the genome scale model have been performed to test the yields of different products on various substrates.  The associated Jupyter Notebook to reproduce the simulations is available as [code/Becker22_UmaySubProdYields.ipynb](code/Becker22_UmaySubProdYields.ipynb)
 
 
 
