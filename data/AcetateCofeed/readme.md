@@ -3,7 +3,8 @@
 ## Description 
 
 This is the source code for the paper "Itaconic acid production by co-feeding of Ustilago maydis: a combined approach of experimental data, design of experiments and metabolic modeling" by A. L. Ziegler*, L. Ullmann*, M. Boßmann, K. L. Stein, U. W. Liebal, A. Mitsos, and L. M. Blank (2023), which was submitted to  [Biotechnology and Bioengineering](https://onlinelibrary.wiley.com/journal/10970290).\
-*equally contributing authors
+*equally contributing authors \
+The the preprint of the paper is available under https://doi.org/10.1101/2023.10.13.562154 .
 
 ## Data and usage
 
