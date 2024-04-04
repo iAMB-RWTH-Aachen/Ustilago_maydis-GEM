@@ -2,9 +2,8 @@
 
 ## Description 
 
-This is the source code for the paper "Itaconic acid production by co-feeding of Ustilago maydis: a combined approach of experimental data, design of experiments and metabolic modeling" by A. L. Ziegler*, L. Ullmann*, M. Boßmann, K. L. Stein, U. W. Liebal, A. Mitsos, and L. M. Blank (2023), which was submitted to  [Biotechnology and Bioengineering](https://onlinelibrary.wiley.com/journal/10970290).\
-*equally contributing authors \
-The the preprint of the paper is available under https://doi.org/10.1101/2023.10.13.562154 .
+This is the source code for the paper [Itaconic acid production by co-feeding of Ustilago maydis: a combined approach of experimental data, design of experiments and metabolic modeling](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/epdf/10.1002/bit.28693) by A. L. Ziegler*, L. Ullmann*, M. Boßmann, K. L. Stein, U. W. Liebal, A. Mitsos, and L. M. Blank (2023), which was published in the journal  [Biotechnology and Bioengineering](https://onlinelibrary.wiley.com/journal/10970290).\
+*equally contributing authors 
 
 ## Data and usage
 
@@ -48,10 +47,11 @@ This paper:
 ```
 @misc{Ziegler2023,
  author = {Ziegler, Anita L. and Ullmann, Lena and Boßmann, Manuel and Stein, Karla L. and Liebal, Ulf W. and Mitsos, Alexander and Blank, Lars M.},
+ year = {2024},
  title = {Itaconic acid production by co-feeding of Ustilago maydis: a combined approach of experimental data, design of experiments and metabolic modeling},
  journal = {Biotechnology and Bioengineering}
- year = {2023},
- status = {submitted}
+ pages = {1--13}
+ doi = {10.1002/bit.28693}
 }
 ```
 
